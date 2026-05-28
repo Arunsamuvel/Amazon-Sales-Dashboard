@@ -133,7 +133,7 @@ Automate data refresh using Power Query
 Author
 
 Arun S
-Data Analyst | Excel Dashboard Developer
+Data Analyst 
 
 License
 
